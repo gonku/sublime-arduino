@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bitRead(${1:x}, ${2:n});
+]]></content>
+    <tabTrigger>bitRead()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

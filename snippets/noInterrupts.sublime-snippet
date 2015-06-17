@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+noInterrupts();
+${1:// critical, time-sensitive code here}
+]]></content>
+    <tabTrigger>noInterrupts()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

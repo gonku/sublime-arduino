@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+OUTPUT
+]]></content>
+    <tabTrigger>OUTPUT</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

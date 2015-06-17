@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+if (Serial.available() > ${1:0}) {
+    ${2}
+}
+]]></content>
+    <tabTrigger>S.available()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino Serial</description>
+</snippet>

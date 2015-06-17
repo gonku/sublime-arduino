@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+FALSE
+]]></content>
+    <tabTrigger>FALSE</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

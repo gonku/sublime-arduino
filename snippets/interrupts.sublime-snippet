@@ -1,0 +1,9 @@
+<snippet>
+    <content><![CDATA[
+interrupts();
+${1}
+]]></content>
+    <tabTrigger>interrupts()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

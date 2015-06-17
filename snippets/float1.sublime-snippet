@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+float ${1:var} = ${2:value};
+]]></content>
+    <tabTrigger>float var =</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+unsigned int ${1:var} = ${2:value};
+]]></content>
+    <tabTrigger>unsigned int</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

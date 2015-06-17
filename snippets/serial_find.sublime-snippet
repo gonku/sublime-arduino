@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Serial.find(${1:target});
+]]></content>
+    <tabTrigger>S.find()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino Serial</description>
+</snippet>

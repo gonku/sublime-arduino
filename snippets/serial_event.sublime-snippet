@@ -1,0 +1,10 @@
+<snippet>
+    <content><![CDATA[
+serialEvent(){
+    ${1}
+}
+]]></content>
+    <tabTrigger>serialEvent()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Serial.parseInt();
+]]></content>
+    <tabTrigger>S.parseInt()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino Serial</description>
+</snippet>

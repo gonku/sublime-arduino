@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+goto ${1:label}; 
+]]></content>
+    <tabTrigger>goto label</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

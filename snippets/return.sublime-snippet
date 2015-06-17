@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+return ${1:value};
+]]></content>
+    <tabTrigger>return value</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

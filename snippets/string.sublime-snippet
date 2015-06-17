@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+string ${1:var} = ${2:"¡Hola Mundo!"};
+]]></content>
+    <tabTrigger>string var =</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

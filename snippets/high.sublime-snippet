@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+HIGH
+]]></content>
+    <tabTrigger>HIGH</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+${1:myArray}[] = {${2:A}, ${3:B}, ${4:C}, ${5:D}, ${6:E}};
+]]></content>
+    <tabTrigger>myArray[]= { }</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

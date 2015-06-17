@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+analogRead(A${1:x});
+]]></content>
+    <tabTrigger>analogRead(Ax)</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

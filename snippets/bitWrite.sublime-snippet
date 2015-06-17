@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+bitWrite(${1:x}, ${2:n}, ${3:b});
+]]></content>
+    <tabTrigger>bitWrite(x,n,b)</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

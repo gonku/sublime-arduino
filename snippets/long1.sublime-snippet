@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+long ${1:var} = ${2:value};
+]]></content>
+    <tabTrigger>long var =</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

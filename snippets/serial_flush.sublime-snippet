@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Serial.flush();
+]]></content>
+    <tabTrigger>S.flush()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino Serial</description>
+</snippet>

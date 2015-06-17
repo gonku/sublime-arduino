@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+char ${1:var} = ${2:'R'/value};
+]]></content>
+    <tabTrigger>char var =</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

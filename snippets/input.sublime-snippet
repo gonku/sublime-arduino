@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+INPUT
+]]></content>
+    <tabTrigger>INPUT</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

@@ -1,0 +1,11 @@
+<snippet>
+	<content><![CDATA[setup() {
+	$1
+}
+
+
+]]></content>
+	<tabTrigger>setup()</tabTrigger>
+	<scope>source.arduino</scope>
+	<description>Arduino void</description>
+</snippet>

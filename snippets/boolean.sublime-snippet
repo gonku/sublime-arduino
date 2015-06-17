@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+boolean ${1:var} = ${2:true/false};
+]]></content>
+    <tabTrigger>boolean var =</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino</description>
+</snippet>

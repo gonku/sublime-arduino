@@ -1,0 +1,8 @@
+<snippet>
+    <content><![CDATA[
+Serial.readBytes(${1:buffer}, ${2:length});
+]]></content>
+    <tabTrigger>S.readBytes()</tabTrigger>
+    <scope>source.arduino</scope>
+    <description>Arduino Serial</description>
+</snippet>
